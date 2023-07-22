@@ -3,9 +3,9 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
 <details>
 <summary>DAY-1</summary>
 
-  -I learn How web pages work?
-  **RESOURCES**
-    -HTTPS:https://youtu.be/iYM2zFP3Zn0
+-I learn How web pages work?
+**RESOURCES**
+ -HTTPS:https://youtu.be/iYM2zFP3Zn0
 
 </details>
 
