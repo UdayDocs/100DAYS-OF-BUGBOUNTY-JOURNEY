@@ -19,6 +19,3 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
 </details>
 
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iYM2zFP3Zn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
