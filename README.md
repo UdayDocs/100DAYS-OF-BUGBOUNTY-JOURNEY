@@ -41,12 +41,15 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
   <div>
     <h2>WHAT I LEARN</h2>
      <p> <li>Try to create a website using javascript</li></p>
-    <p> <li> Learn about encoding </li></p>
+    <p> <li> Installing Kali Linux on a virtual machine </li></p>
+     <p> <li> Learn about encoding </li></p>
     <h2>RESOURCES</h2>
     <p><li>Javascript:https://youtu.be/htznIeWKgg8 </li> </p>
+     <p> <li> Create a website :https://youtu.be/n6UPwT2hf_g </li></p>
     <p><li>  Encoding:https://skorks.com/2009/08/different-types-of-encoding-schemes-a-primer/</li> </p>
+    <p> <li> Kali Linux:https://youtu.be/l0JgWilK6ok</li></p>
     <h2>About the day</h2>
-    <p>while most people have limitations and learn to live within them, the speaker chooses to ignore their own limits and push beyond them.
+    <p>Yesterday,I mentioned a quote from batman movie.Everyone has limitations and learns to live within them, but I chooses to ignore their own limits  and push beyond them. Remember, you’re limitless.Today is all about completing all the pending tasks. I need to join an environment or community for bug bounty hunting, such as Twitter pages, Discord, Reddit,what not?. Also, I am building a website while learning javascript, DSA in Python. And you know, I’m a calisthenics guy.”
     </p>
     <p>
     <span style="font-size:1.1em">July 24, 2023. Signing off, Day-3!</span> </p>
