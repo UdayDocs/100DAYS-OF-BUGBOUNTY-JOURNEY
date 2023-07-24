@@ -41,9 +41,10 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
   <div>
     <h2>WHAT I LEARN</h2>
      <p> <li>Try to create a website using javascript</li></p>
+    <p> <li> Learn about encoding </li></p>
     <h2>RESOURCES</h2>
-    <p><li>javascript:youtu.be/htznIeWKgg8 </li> </p>
-    <p><li> Cuba has no internet so,people create their own net callet"street_net": https://youtu.be/fTTno8D-b2E</li> </p>
+    <p><li>Javascript:https:youtu.be/htznIeWKgg8 </li> </p>
+    <p><li>  Encoding://https_skorks.com/?url=https%3A%2F%2Fskorks.com%2F2009%2F08%2Fdifferent-types-of-encoding-schemes-a-primer%2F</li> </p>
     <h2>About the day</h2>
     <p>while most people have limitations and learn to live within them, the speaker chooses to ignore their own limits and push beyond them.
     </p>
