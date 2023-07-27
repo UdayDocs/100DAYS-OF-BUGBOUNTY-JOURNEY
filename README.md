@@ -27,6 +27,7 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
      <p> <li>How internet works?</li></p>
     <h2>RESOURCES</h2>
     <p><li>Computer Networking: www.geeksforgeeks.org/basics-computer-networking </li> </p>
+    <p><li>https://www.youtube.com/watch?v=x3c1ih2NJEg </li> </p>
     <p><li> Cuba has no internet so,people create their own net callet"street_net": https://youtu.be/fTTno8D-b2E</li> </p>
     <h2>About the day</h2>
     <p>Today I watched a movie called Batman Begins by Christopher Nolan. There was an awesome quote that you really need to know: "All men have limits. They learn what they are and learn not to exceed them. I ignore mine"
