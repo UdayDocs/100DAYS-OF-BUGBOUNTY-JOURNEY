@@ -84,9 +84,9 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
   <summary>DAY-5</summary>
   <div>
     <h2>WHAT I LEARN</h2>
-     <p> <li>creating a website using javascript,html,css</li></p>
-    <p> <li>  machine </li></p>
-     <p> <li> Learn about </li></p>
+     <p> <li> how session management&Session hijacking works?</li></p>
+    <p> <li> How  cross-site scripting,SQL injection, works?</li></p>
+     <p> <li> how cookies work</li></p>
     <h2>RESOURCES</h2>
     <p><li>Javascript:https://youtu.be/htznIeWKgg8 </li> </p>
      <p> <li> Create a website :https://youtu.be/n6UPwT2hf_g </li></p>
@@ -96,7 +96,7 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
     <p>Yesterday,I mentioned a quote from batman movie.Everyone has limitations and learns to live within them, but I chooses to ignore their own limits  and push beyond them. Remember, you’re limitless.Today is all about completing all the pending tasks. I need to join an environment or community for bug bounty hunting, such as Twitter pages, Discord, Reddit,what not?. Also, I am building a website while learning javascript, DSA in Python. And you know, I’m a calisthenics guy.”
     </p>
     <p>
-    <span style="font-size:1.1em">July 27, 2023. Signing off, Day-5!</span> </p>
+    <span style="font-size:1.1em">July 26, 2023. Signing off, Day-5!</span> </p>
   </div>
 </details>
 
