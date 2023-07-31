@@ -104,3 +104,24 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
 </details>
 
 
+<details>
+  <summary>DAY-6</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+     <p> <li> N-MAP </li></p>
+    <p> <li> SHODAN </li></p>
+     <p> <li> RECOON </li></p>
+    <h2>RESOURCES</h2>
+    <p><li>N-MAP: https://youtu.be/4t4kBkMsDbQ</li> </p>
+     <p> <li> Create a website </li></p>
+     <p> <li> https://youtu.be/Rp69edBmFFo</li></p>
+    <p><li>  E/</li> </p>
+    <h2>About the day</h2>
+    <p>Today is my sister birthday
+    </p>
+    <p>
+    <span style="font-size:1.1em">July 27, 2023. Signing off, Day-6!</span> </p>
+  </div>
+</details>
+
+
