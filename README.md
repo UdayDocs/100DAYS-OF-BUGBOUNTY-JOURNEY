@@ -15,7 +15,7 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
     <p>I found a book about Money and thought it was interesting. I read it for a while and learned some facts about financials and the book's name is Psychology of Money. I also start watching a web series. The series was about hacking. Elliot is a brilliant young cyber-security engineer and vigilante hacker. It was an interesting and enjoyable story. I liked the episode and felt inspired by it.
     </p>
     <p>
-    <span style="font-size:1.1em">July 22, 2023. Signing off, Day-1!</span> </p>
+    <span style="font-size:1.1em">August 05, 2023. Signing off, Day-1!</span> </p>
   </div>
 </details>
 
@@ -34,7 +34,7 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
     <p>Today I watched a movie called Batman Begins by Christopher Nolan. There was an awesome quote that you really need to know: "All men have limits. They learn what they are and learn not to exceed them. I ignore mine"
     </p>
     <p>
-    <span style="font-size:1.1em">July 23, 2023. Signing off, Day-2!</span> </p>
+    <span style="font-size:1.1em"> AUgust 06, 2023. Signing off, Day-2!</span> </p>
   </div>
 </details>
 
@@ -123,5 +123,198 @@ Starting bug hunting as someone with no coding or software knowledge. Over the n
     <span style="font-size:1.1em">July 27, 2023. Signing off, Day-6!</span> </p>
   </div>
 </details>
+
+<details>
+  <summary>DAY-21</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-35</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-41</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-50</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-55</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-69</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-75</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-81</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-88</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+<details>
+  <summary>DAY-91</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">, 2023. Signing off, Day-!</span> </p>
+  </div>
+</details>
+
+
+
+
+
+
+<details>
+  <summary>DAY-99</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+    <p><li>  </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">November 12 , 2023. Signing off, Day-99!</span> </p>
+  </div>
+</details>
+
+
+
+<details>
+  <summary>DAY-100</summary>
+  <div>
+    <h2>WHAT I LEARN</h2>
+     <p> <li>  </li></p>
+    <p> <li>  </li></p>
+     <p> <li>  </li></p>
+    <h2>RESOURCES</h2>
+    <p><li></li> </p>
+     <p> <li> </li></p>
+     <p> <li> </li></p>
+    <p><li> </li> </p>
+    <h2>About the day</h2>
+    <p>
+    </p>
+    <p>
+    <span style="font-size:1.1em">Novembar 13, 2023. Signing off, Last day!</span> </p>
+  </div>
+</details>
+
 
 
